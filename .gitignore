@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/
+datasets/
+Rice Leaf Disease Dataset/
+
+Microsoft+Word+Proceedings+Templates/
+
+AgriSentinel_app_CLEAN_CENTERED_FINAL.py
+AgriSentinel_app_CLEAN_FINAL.py
+AgriSentinel_app_FINAL_compact.py
+AgriSentinel_app_updated_compact.py
+app_backup.py
+prepare_data.py
+train.py
+
+.ipynb_checkpoints/
+.env
+*.log
+.streamlit/secrets.toml
